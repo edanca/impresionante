@@ -1,0 +1,23 @@
+{
+  "name": "jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edanca/practica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edanca/practica/issues"
+  },
+  "homepage": "https://github.com/edanca/practica#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
