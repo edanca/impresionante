@@ -2,5 +2,6 @@
 Including mocha test and automated with jenkins.
 
 # Dev Dependencies
-* mocha
+* ~~mocha~~
+* Jest
 * nodemon
